@@ -1,5 +1,5 @@
 import { StyleSheet, View } from "react-native";
-import Collections from "./components/Collections";
+import Collections from "./src/components/Collections";
 
 export default function App() {
 	return (
